@@ -13,6 +13,11 @@ A rsync wrapper that makes the Linux full system backups and restores easier tha
 
 ## Installation
 
+Install with pip
+```bash
+  pip install dslb
+```
+
 Install dslb with git clone
 
 ```bash
