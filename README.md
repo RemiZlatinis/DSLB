@@ -57,4 +57,4 @@ If you have any feedback, please reach out to us at remizlatinis@gmail.com
 
 ## License
 
-[GPL v2](https://github.com/RemiZlatinis/DSLB/raw/main/LICENSE)
+[![GPLv2 License](https://img.shields.io/badge/License-GPL%20v2-yellow.svg)](https://github.com/RemiZlatinis/DSLB/raw/main/LICENSE)
