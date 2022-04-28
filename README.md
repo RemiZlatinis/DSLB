@@ -47,6 +47,8 @@ Install dslb with git clone
 
 No, the backup path will always be excluded.
 
+#### Where I can find that cool shell setup?
+https://github.com/RemiZlatinis/my-settings/tree/main/zsh-configs
 
 ## Authors
 
