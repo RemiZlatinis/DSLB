@@ -40,7 +40,7 @@ import os
 import argparse
 from pathlib import Path
 
-from rsyncy_modded import main as rsyncy
+from .rsyncy_modded import main as rsyncy
 
 
 DEFAULT_TARGET_PATH = Path.home() / 'system_backup'
