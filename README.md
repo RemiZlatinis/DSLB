@@ -1,3 +1,6 @@
+<a href="https://paypal.me/remizlatinis"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="paypal.me/remizlatinis" /></a><br><br>
+
+
 # Dead Simple Linux Backups
 
 A rsync wrapper that makes the Linux full system backups and restores easier than ever. 
